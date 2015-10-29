@@ -11,7 +11,7 @@ title:            West Sacramento CfA Fellowship
 tagline:          'A Jekyll theme'
 description:      'Here is the description of the doc site'
 url:              /
-baseurl:          /
+baseurl:          /http://codeforamerica.github.io/
 
 author:
   name:           'Imanol Aranzadi'
