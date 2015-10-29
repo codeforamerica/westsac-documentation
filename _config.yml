@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            West Sacramento CfA Fellowship
+tagline:          'A Jekyll theme'
+description:      'Here is the description of the doc site'
+url:              /
+baseurl:          /
+
+author:
+  name:           'Imanol Aranzadi'
+  url:            https://twitter.com/iaranzadi
+
+paginate:         5
+
+# Custom vars
+version:          1.0
+
+github:
+  repo:           https://github.com/codeforamerica

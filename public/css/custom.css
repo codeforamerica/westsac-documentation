@@ -1,0 +1,14 @@
+.sidebar {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: #E7EDF1;
+}
+.sidebar {
+	color: darkgray;
+	text-align: left;
+}
+.sidebar a {
+	color: gray;
+	text-decoration: none;
+}
