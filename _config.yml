@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            West Sacramento CfA Fellowship
 tagline:          'A Jekyll theme'
 description:      'Here is the description of the doc site'
-url:              "http://codeforamerica.github.io"
-baseurl:          "http://codeforamerica.github.io/westsac-documentation"
+url:              http://codeforamerica.github.io
+baseurl:          http://codeforamerica.github.io/westsac-documentation
 
 author:
   name:           'Imanol Aranzadi'
